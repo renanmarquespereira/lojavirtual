@@ -1,3 +1,3 @@
 # lojavirtual
 
-Texto alterado no repositório local
+Texto apagado no github web
